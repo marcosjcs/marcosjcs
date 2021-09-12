@@ -62,8 +62,8 @@ _Quote requested from [GitHub](https://github.com/filipedeschamps/meu-primeiro-j
 
 <br>
 
-<a href="https://github.com/marcosjcs/api-node">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosjcs&repo=api-node&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/marcosjcs/vendas">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosjcs&repo=vendas&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
